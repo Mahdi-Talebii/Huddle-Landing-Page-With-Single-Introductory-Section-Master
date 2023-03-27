@@ -1,0 +1,4 @@
+Hello,
+this is another project of Front-end Mentor challenges.
+The hardest thing to do was the :hocer part of the social links.
+hope you're satisfied width results.
